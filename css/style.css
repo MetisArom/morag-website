@@ -94,6 +94,22 @@ body{
     color: #FFCB05;
 }
 
+#project-1{
+    float: left;
+    width: 50%;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+#project-2{
+    float: right;
+    width: 50%;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
 @media(max-width:600px){
     #main{
         width:100%;
